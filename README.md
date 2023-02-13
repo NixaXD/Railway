@@ -5,3 +5,4 @@ An Script to host on railway.app ~
 
 - REPO_URL
 - START_CMD
+Done Bro 🤣
